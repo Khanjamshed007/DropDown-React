@@ -1,4 +1,36 @@
-# Getting Started with Create React App
+Hosted link :https://dropdown-react-one.vercel.app/
+
+
+
+First of all create react project using create-react-app app_name
+
+Delete the unnecessary files
+
+folder structure
+
+![Screenshot (40)](https://github.com/Khanjamshed007/DropDown-React/assets/94047780/a50659a7-52e3-4d93-a968-1cf78c26e18d)
+
+
+HomePage
+
+
+![Screenshot (41)](https://github.com/Khanjamshed007/DropDown-React/assets/94047780/3614d3be-03cf-4f5d-9578-c2f0ce0a2a76)
+
+
+Select Yes 
+
+![Screenshot (43)](https://github.com/Khanjamshed007/DropDown-React/assets/94047780/803d1efa-e964-418f-bb8f-a496fe256a9f)
+
+![Screenshot (42)](https://github.com/Khanjamshed007/DropDown-React/assets/94047780/e64875fc-ceb3-4922-82e8-426361840847)
+
+
+
+Select Probaly Not
+
+![Screenshot (44)](https://github.com/Khanjamshed007/DropDown-React/assets/94047780/ba66018f-c2d1-452c-9836-0e4444203648)
+
+![Screenshot (45)](https://github.com/Khanjamshed007/DropDown-React/assets/94047780/b2afa3e3-a240-4c03-aaaa-6d6fbf2f526e)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
