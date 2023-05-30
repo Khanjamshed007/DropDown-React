@@ -6,18 +6,18 @@ First of all create react project using create-react-app app_name
 
 Delete the unnecessary files
 
-folder structure
+# folder structure
 
 ![Screenshot (40)](https://github.com/Khanjamshed007/DropDown-React/assets/94047780/a50659a7-52e3-4d93-a968-1cf78c26e18d)
 
 
-HomePage
+# HomePage
 
 
 ![Screenshot (41)](https://github.com/Khanjamshed007/DropDown-React/assets/94047780/3614d3be-03cf-4f5d-9578-c2f0ce0a2a76)
 
 
-Select Yes 
+# Select Yes 
 
 ![Screenshot (43)](https://github.com/Khanjamshed007/DropDown-React/assets/94047780/803d1efa-e964-418f-bb8f-a496fe256a9f)
 
@@ -25,7 +25,7 @@ Select Yes
 
 
 
-Select Probaly Not
+# Select Probaly Not
 
 ![Screenshot (44)](https://github.com/Khanjamshed007/DropDown-React/assets/94047780/ba66018f-c2d1-452c-9836-0e4444203648)
 
